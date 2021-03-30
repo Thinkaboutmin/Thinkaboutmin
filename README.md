@@ -5,7 +5,7 @@ Making a few cool, but undesireful, projects. Basically, nothing that anyone nee
 Want to some info about me? Sure, indulge yourself in it.
 
 I'm a man who considers himself a developer(software engineer?) who eagerly studies a lot of things in the laziest way possible, AKA procastination. Among the things that I have studies ranged from simple language syntatics (Python and C++) to computer graphics (OpenGL, not gonna lie this one I barely touched hehe).
-Among the languages that I have worked with to the point of it being at least a simple hello or some simple conditional operational were:
+Among the languages that I have worked with to the point of it being at least a simple hello or some simple conditional operation were:
 
 - C#
 - Python
